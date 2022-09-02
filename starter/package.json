@@ -1,0 +1,14 @@
+{
+  "name": "notours",
+  "version": "1.0.0",
+  "description": "Notours landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vattghern",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
